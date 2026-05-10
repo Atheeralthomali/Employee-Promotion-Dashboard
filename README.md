@@ -37,6 +37,17 @@ This project focuses on analyzing employee data to identify promotion patterns, 
 ### Main Dashboard
 <img width="1385" height="794" alt="Screenshot 2025-08-20 135718" src="https://github.com/user-attachments/assets/c28644a1-fe53-4999-944f-c24e78096c4d" />
 
+### City-Level Analysis – Mecca
+Detailed workforce and promotion insights for Mecca city, including promotion rate and employee distribution.
+
+<img width="1380" height="778" alt="Screenshot 2025-08-20 135740" src="https://github.com/user-attachments/assets/a5c68734-5340-44f4-8b5e-81f8e38e7e10" />
+
+
+### Filtered Dashboard – Operations Department in Tabuk
+Dynamic filtering analysis showing workforce metrics and promotion insights for the Operations department in Tabuk.
+
+<img width="1704" height="957" alt="Screenshot 2025-08-19 235608" src="https://github.com/user-attachments/assets/a2bd4999-cebf-4de0-ba85-1e1e06025c10" />
+
 
 ### Data Model
 <img width="865" height="743" alt="image" src="https://github.com/user-attachments/assets/dcf46194-9168-4b98-83e4-c8ed9d010e37" />
